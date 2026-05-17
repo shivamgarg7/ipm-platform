@@ -94,7 +94,7 @@ const BIAS_NOTES = {
   close_friend: 'Close friends overweight social signals, may miss private stress patterns. Best for social chemistry, weaker for internal regulation.',
   family_member: 'Family has long observation windows (childhood continuity) but may carry projection biases. Excellent for developmental signals.',
   colleague: 'Colleagues see task behaviour and stress clearly, but rarely observe personal emotional regulation or attachment.',
-  other: 'We'll calibrate conservatively based on available signals.',
+  other: "We'll calibrate conservatively based on available signals.",
 };
 
 // ─── Small components ──────────────────────────────────────────────────
